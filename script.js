@@ -9,7 +9,7 @@ btn.addEventListener("click", function (e) {
     btn.style.left = "100%";
     signUp.style.transform = `rotateY(0deg)`;
     logIn.style.transform = `rotateY(180deg)`;
-    arrow.style.transform = `translate(-50%, -50%) rotate(45deg)`;
+    arrow.style.transform = `translate(-50%, -50%) rotate(-315deg)`;
     check = false;
   } else {
     btn.style.left = "0%";

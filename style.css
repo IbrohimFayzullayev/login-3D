@@ -43,7 +43,7 @@ body {
   transition: all 2s;
 }
 .container {
-  width: 38rem;
+  max-width: 38rem;
   margin: 0 auto;
   position: relative;
   height: 35rem;

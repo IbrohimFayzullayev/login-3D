@@ -48,6 +48,7 @@ body {
   position: relative;
   height: 35rem;
   perspective: 120rem;
+  transform-style: preserve-3d;
 }
 .box {
   color: #fff;
@@ -56,6 +57,7 @@ body {
   margin: 0 auto;
   background-color: #292836;
   padding: 5rem 3rem;
+  transform-style: preserve-3d;
 }
 .inputs {
   display: flex;
